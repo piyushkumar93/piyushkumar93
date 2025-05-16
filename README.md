@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Piyush Kumar</h1>
 <p align="center">
-  🎓 2nd Year B.Tech Student @ NSUT, New Delhi (Instrumentation & Control Engineering)<br>
+  🎓 2nd Year B.Tech Student @ NSUT, New Delhi <br>
   🔍 Data Science • Machine Learning • Generative AI • LLMs<br>
   🛠️ Building real-world AI apps, not just training models<br>
 </p>
