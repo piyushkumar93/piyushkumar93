@@ -13,6 +13,7 @@ I talk to pandas 🐼 more than people (yes, I mean `import pandas as pd`) and I
 - Predict churn for telecom companies in real time
 - Forecast electric vehicle sales using SARIMAX
 - Predict student performance with regression models
+- IMDB Sentiment Analyzer (NLP)
 
 I'm not just passionate about machine learning — I'm obsessed with deploying it, scaling it, and turning datasets into insights (and sometimes memes).
 
@@ -43,6 +44,10 @@ Time series forecasting using SARIMAX with MAPE ranging from 7–25% across EV c
 
 ### 🎓 [Student Performance Regressor](https://github.com/piyushkumar93)
 XGBoost-based regression model deployed with Flask to predict student exam scores from socio-economic features.
+
+### 🎬 [IMDB Sentiment Analyzer (NLP)](https://github.com/piyushkumar93/IMDB-Movie-Review-Sentiment-Analysis)
+Built an NLP pipeline using LSTM for binary sentiment classification of movie reviews. Achieved high validation accuracy and performed detailed EDA, tokenization, and model training using TensorFlow and Keras.
+
 
 ---
 
